@@ -1,5 +1,3 @@
-        // 3) Criar interface
-
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
@@ -8,39 +6,41 @@ import java.net.http.HttpResponse;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+
+        // 3) Criar interface
 public class PrincipalSemana5 {
     public static void main(String[] args) throws IOException, InterruptedException {
-//        Livro livroUm = new Livro();
-//        livroUm.setNome("Senhor dos Aneis");
-//        livroUm.setIsbn("1a2b3c4d");
-//
-//        Cliente clienteUm = new Cliente();
-//        clienteUm.setNomeCLiente("Osvaldo");
-//        clienteUm.setCpf("231.435.258-24");
-//
-//        System.out.println(livroUm.identifcar());
-//        System.out.println(clienteUm.identifcar());
+        Livro livroUm = new Livro();
+        livroUm.setNome("Senhor dos Aneis");
+        livroUm.setIsbn("1a2b3c4d");
+
+        Cliente clienteUm = new Cliente();
+        clienteUm.setNomeCLiente("Osvaldo");
+        clienteUm.setCpf("231.435.258-24");
+
+        System.out.println(livroUm.identifcar());
+        System.out.println(clienteUm.identifcar());
 
  //----------------------------------------------------------------------------
-        // 4) Leitura de dados
+         //4) Leitura de dados
 
-//        Scanner leitura = new Scanner(System.in);
-//        System.out.println("Digite o id do produtop: ");
-//        int idProduto = leitura.nextInt();
-//        System.out.println("Id digitado: " + idProduto);
+        Scanner leitura = new Scanner(System.in);
+        System.out.println("Digite o id do produtop: ");
+        int idProduto = leitura.nextInt();
+        System.out.println("Id digitado: " + idProduto);
 
 //----------------------------------------------------------------------------
         // 5) Tratar uma possivel exceção
 
-//        try {
-//            Scanner leituraUm = new Scanner(System.in);
-//            System.out.println("Digite o id do produtop: ");
-//            int idProdutoUM = leituraUm.nextInt();
-//            System.out.println("Id digitado: " + idProdutoUM);
-//
-//        } catch (InputMismatchException e) {
-//            System.out.println("Erro! Digite um valor numérico");
-//        }
+        try {
+            Scanner leituraUm = new Scanner(System.in);
+            System.out.println("Digite o id do produtop: ");
+            int idProdutoUM = leituraUm.nextInt();
+            System.out.println("Id digitado: " + idProdutoUM);
+
+        } catch (InputMismatchException e) {
+            System.out.println("Erro! Digite um valor numérico");
+        }
 
 //----------------------------------------------------------------------------
         // 6) Fazer consulta para a API
@@ -79,12 +79,7 @@ public class PrincipalSemana5 {
         }
 
 
-
-
-
     }
-
-
 
 
 }
