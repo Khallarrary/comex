@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Comex.Modelos</id>
+    <version>1.0.0</version>
+    <title>Classe modelos do projeto COMEX</title>
+    <authors>Comex.Modelos</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="a5919c2b8a85a5dc0b4746a74eaaeacb70bce309" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Junior\source\repos\Comex\Comex.Modelos\bin\Debug\net8.0\Comex.Modelos.dll" target="lib\net8.0\Comex.Modelos.dll" />
+  </files>
+</package>

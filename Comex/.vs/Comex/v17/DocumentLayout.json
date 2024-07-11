@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Junior\\source\\repos\\Comex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E62521D8-6952-4FAD-9821-C403DCA3B3DC}|Comex.Testes\\Comex.Testes.csproj|c:\\users\\junior\\source\\repos\\comex\\comex.testes\\modelos\\pedidotestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62521D8-6952-4FAD-9821-C403DCA3B3DC}|Comex.Testes\\Comex.Testes.csproj|solutionrelative:comex.testes\\modelos\\pedidotestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|c:\\users\\junior\\source\\repos\\comex\\comex.modelos\\modelo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|solutionrelative:comex.modelos\\modelo\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|c:\\users\\junior\\source\\repos\\comex\\comex.modelos\\modelo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|solutionrelative:comex.modelos\\modelo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|c:\\users\\junior\\source\\repos\\comex\\comex\\menus\\registrarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|solutionrelative:comex\\menus\\registrarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|c:\\users\\junior\\source\\repos\\comex\\comex\\menus\\menulistarpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|solutionrelative:comex\\menus\\menulistarpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|c:\\users\\junior\\source\\repos\\comex\\comex\\menus\\menuadcionarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|solutionrelative:comex\\menus\\menuadcionarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|c:\\users\\junior\\source\\repos\\comex\\comex.modelos\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|solutionrelative:comex.modelos\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|c:\\users\\junior\\source\\repos\\comex\\comex.modelos\\modelo\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|solutionrelative:comex.modelos\\modelo\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|c:\\users\\junior\\source\\repos\\comex\\comex.modelos\\comex.modelos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|solutionrelative:comex.modelos\\comex.modelos.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|c:\\users\\junior\\source\\repos\\comex\\comex\\menus\\exibirconsultaexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|solutionrelative:comex\\menus\\exibirconsultaexterna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|c:\\users\\junior\\source\\repos\\comex\\comex.modelos\\modelo\\requisicaoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|solutionrelative:comex.modelos\\modelo\\requisicaoapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|c:\\users\\junior\\source\\repos\\comex\\comex.modelos\\modelo\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E17CF9-76BE-4112-AB42-7A284EFC3EA3}|Comex.Modelos\\Comex.Modelos.csproj|solutionrelative:comex.modelos\\modelo\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|c:\\users\\junior\\source\\repos\\comex\\comex\\menus\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|solutionrelative:comex\\menus\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|c:\\users\\junior\\source\\repos\\comex\\comex\\menus\\menulistarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|solutionrelative:comex\\menus\\menulistarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|c:\\users\\junior\\source\\repos\\comex\\comex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B3F239-CDE4-47FA-88B7-089FC0518DB2}|Comex\\Comex.csproj|solutionrelative:comex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrarProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Menus\\RegistrarProduto.cs",
+              "RelativeDocumentMoniker": "Comex\\Menus\\RegistrarProduto.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Menus\\RegistrarProduto.cs",
+              "RelativeToolTip": "Comex\\Menus\\RegistrarProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T05:20:17.936Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoTestes.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Testes\\Modelos\\PedidoTestes.cs",
+              "RelativeDocumentMoniker": "Comex.Testes\\Modelos\\PedidoTestes.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Testes\\Modelos\\PedidoTestes.cs",
+              "RelativeToolTip": "Comex.Testes\\Modelos\\PedidoTestes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:43:10.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comex.Modelos",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\Comex.Modelos.csproj",
+              "RelativeDocumentMoniker": "Comex.Modelos\\Comex.Modelos.csproj",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\Comex.Modelos.csproj",
+              "RelativeToolTip": "Comex.Modelos\\Comex.Modelos.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T23:34:08.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\modelo\\ItemPedido.cs",
+              "RelativeDocumentMoniker": "Comex.Modelos\\modelo\\ItemPedido.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\modelo\\ItemPedido.cs",
+              "RelativeToolTip": "Comex.Modelos\\modelo\\ItemPedido.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:04:37.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\modelo\\Endereco.cs",
+              "RelativeDocumentMoniker": "Comex.Modelos\\modelo\\Endereco.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\modelo\\Endereco.cs",
+              "RelativeToolTip": "Comex.Modelos\\modelo\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:59:57.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\modelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "Comex.Modelos\\modelo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\modelo\\Cliente.cs",
+              "RelativeToolTip": "Comex.Modelos\\modelo\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:59:43.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequisicaoApi.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\modelo\\RequisicaoApi.cs",
+              "RelativeDocumentMoniker": "Comex.Modelos\\modelo\\RequisicaoApi.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\modelo\\RequisicaoApi.cs",
+              "RelativeToolTip": "Comex.Modelos\\modelo\\RequisicaoApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:57:00.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\modelo\\Produto.cs",
+              "RelativeDocumentMoniker": "Comex.Modelos\\modelo\\Produto.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\modelo\\Produto.cs",
+              "RelativeToolTip": "Comex.Modelos\\modelo\\Produto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:56:41.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\modelo\\Pedido.cs",
+              "RelativeDocumentMoniker": "Comex.Modelos\\modelo\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex.Modelos\\modelo\\Pedido.cs",
+              "RelativeToolTip": "Comex.Modelos\\modelo\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:53:48.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuListarPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Menus\\MenuListarPedidos.cs",
+              "RelativeDocumentMoniker": "Comex\\Menus\\MenuListarPedidos.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Menus\\MenuListarPedidos.cs",
+              "RelativeToolTip": "Comex\\Menus\\MenuListarPedidos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:45:02.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuAdcionarPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Menus\\MenuAdcionarPedido.cs",
+              "RelativeDocumentMoniker": "Comex\\Menus\\MenuAdcionarPedido.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Menus\\MenuAdcionarPedido.cs",
+              "RelativeToolTip": "Comex\\Menus\\MenuAdcionarPedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:15:37.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExibirConsultaExterna.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Menus\\ExibirConsultaExterna.cs",
+              "RelativeDocumentMoniker": "Comex\\Menus\\ExibirConsultaExterna.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Menus\\ExibirConsultaExterna.cs",
+              "RelativeToolTip": "Comex\\Menus\\ExibirConsultaExterna.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T05:38:59.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuListarProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Menus\\MenuListarProdutos.cs",
+              "RelativeDocumentMoniker": "Comex\\Menus\\MenuListarProdutos.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Menus\\MenuListarProdutos.cs",
+              "RelativeToolTip": "Comex\\Menus\\MenuListarProdutos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T05:22:53.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Menus\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Comex\\Menus\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Menus\\MenuPrincipal.cs",
+              "RelativeToolTip": "Comex\\Menus\\MenuPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T05:17:03.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Program.cs",
+              "RelativeDocumentMoniker": "Comex\\Program.cs",
+              "ToolTip": "C:\\Users\\Junior\\source\\repos\\Comex\\Comex\\Program.cs",
+              "RelativeToolTip": "Comex\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:40:47.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
